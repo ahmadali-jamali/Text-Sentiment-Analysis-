@@ -4,5 +4,7 @@
 Deep Neural Networks for sentiment detection
 <h2>About dataset</h2>
 The Mental Health Corpus is a collection of texts related to people with anxiety, depression, and other mental health issues. The corpus consists of two columns: one containing the comments, and the other containing labels indicating whether the comments are considered poisonous or not. The corpus can be used for a variety of purposes, such as sentiment analysis, toxic language detection, and mental health language analysis. The data in the corpus may be useful for researchers, mental health professionals, and others interested in understanding the language and sentiment surrounding mental health issues.
-<h3>DATA set for downdload:</h3>
+<h3> Labeled sentences about depression and axiety DATA set for downdload:</h3>
 https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus
+<h2>My main open source code  in kaggle:</h2>
+https://www.kaggle.com/code/ahmadalijamali/analysis-and-modelling-on-mental-health-corpus
